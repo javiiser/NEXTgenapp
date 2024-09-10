@@ -1,4 +1,3 @@
-Aquí tienes un ejemplo de README para tu aplicación "NEXTgenApp" en GitHub:
 
 ---
 
